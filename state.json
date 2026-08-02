@@ -1,7 +1,6 @@
 {
-  "state": "down",
-  "consecutive_failures": 2,
-  "component": "site",
-  "incident_key": "20260802T2034-site",
-  "declared_at": "2026-08-02T20:34:57.528Z"
+  "state": "up",
+  "consecutive_failures": 0,
+  "component": "none",
+  "incident_key": null
 }
