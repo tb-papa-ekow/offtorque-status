@@ -1,4 +1,5 @@
 {
   "state": "up",
-  "consecutive_failures": 0
+  "consecutive_failures": 0,
+  "component": "none"
 }
