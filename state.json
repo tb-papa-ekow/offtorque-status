@@ -1,5 +1,5 @@
 {
   "state": "up",
-  "consecutive_failures": 0,
-  "component": "none"
+  "consecutive_failures": 1,
+  "component": "site"
 }
