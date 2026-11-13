@@ -1,6 +1,6 @@
 {
   "state": "down",
-  "consecutive_failures": 320,
+  "consecutive_failures": 321,
   "component": "site",
   "incident_key": "20261111T1440-site",
   "declared_at": "2026-11-11T14:40:51.483Z"
