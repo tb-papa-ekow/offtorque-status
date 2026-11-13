@@ -1,6 +1,5 @@
 {
   "state": "up",
   "consecutive_failures": 0,
-  "component": "none",
-  "incident_key": null
+  "component": "none"
 }
